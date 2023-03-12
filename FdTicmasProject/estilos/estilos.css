@@ -67,7 +67,7 @@ span {
     border: 1px solid black;
 }
 
-.caja{
+.main{
     width: 100%;
     height: 600px;
     border: 1px solid black;
@@ -81,7 +81,7 @@ span {
     width: 18%;
 }
 
-.caja2{
+.sevicio{
     width: 100%;
     height: 600px;
     border: 1px solid black;
@@ -103,7 +103,7 @@ span {
 }
 
 
-.caja3{
+.contacto{
     width: 100%;
     height: 600px;
     border: 1px solid black;
